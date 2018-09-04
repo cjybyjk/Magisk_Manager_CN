@@ -1,0 +1,6 @@
+id=mmCN
+name=Magisk Manager CN
+versionCode=1
+author=cjybyjk
+description=An unofficial Magisk Manager
+minMagisk=17000
